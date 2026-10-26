@@ -1,0 +1,44 @@
+ @import "tailwindcss";
+  .outer{
+  background-color: black;
+  height:100vh;
+  display: flex;
+  justify-content:start;
+}
+.inner{
+  display: flex;
+  flex-direction: column;
+}
+#btn1{
+  border:solid white 2px ;
+  width:600px ;
+  border-radius:5px ;
+   margin-left: 20px ;
+   /* background-color:red; */
+   /* color: white; */
+}
+textarea,input{
+  height:max-content ;
+  max-width:600px;
+  border:solid grey ;
+  border-radius:5px ;
+  margin-left: 20px ;
+  margin-bottom:10px ;
+  color:gray;
+}
+h1{
+  /* margin-left:300px ; */
+  color:white ;
+}
+.notes{
+  /* height:250px ; */
+  /* width: 200px; */
+  /* background-color: white; */
+   margin-top:10px ;
+  margin-left: 10px ;
+  margin-right:10px ; 
+   border-radius:25px ;
+
+
+  
+}  

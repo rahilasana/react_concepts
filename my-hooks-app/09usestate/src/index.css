@@ -1,0 +1,50 @@
+#counter{
+  margin: 10px; 
+  font-weight: 900;
+}
+.border{
+  /* background-color:azure;  */
+  border:3px solid aqua;  ;
+  border-radius:10px ; 
+  height: 300px; 
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top:60px ;
+  margin-left:60px ;
+  padding:30px;
+  
+}
+.outer{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+ 
+} 
+ button{
+  margin-left: 70px;
+  margin-right: 60px;
+  margin-top:10px ;
+  padding-left:12px ;
+  padding-right:12px ;
+  padding-top:8px ;
+  padding-bottom:8px ;  
+  font-weight: 600;
+  border-radius:10px ;
+  border-color:aqua;
+ }
+ h1{
+  font-size: 40px;
+  /* color: black; */
+ }
+
+ #lastbtn button{
+   margin-left:200px ;
+   /* border-radius:10px; */
+ }
+ h2{
+  color: coral;
+ }

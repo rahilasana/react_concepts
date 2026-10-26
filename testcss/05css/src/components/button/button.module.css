@@ -1,0 +1,29 @@
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.btn1{
+    background-color:darkslategray ;
+    border-radius:4px ;
+    padding: 3px 6px ;
+    font-size:medium;
+    font-weight: 600;
+    color:aliceblue ;
+}
+.btn2{
+    background-color:palevioletred ;
+    border-radius:4px ;
+    padding: 3px 6px ;
+    font-size:medium;
+    font-weight: 600;  
+}
+.btn2:hover{
+    background-color:transparent ;
+    color: black;
+}
+.btn1:hover{
+    background-color:transparent ;
+    color: black; 
+}

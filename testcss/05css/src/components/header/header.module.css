@@ -1,0 +1,24 @@
+.head1{
+    background-color: darkslategrey;
+    color: aliceblue;
+    margin-bottom:20px ;
+    font-size: larger;
+    font-weight: 600;
+    padding:10px ;
+}
+.head1:hover{
+    background-color:aliceblue;
+    color: darkslategray;
+}
+.head2{
+    background-color:brown;
+    color: aliceblue;
+    margin-bottom:20px ;
+    font-size: larger;
+    font-weight: 600;
+    padding: 10px;
+}
+.head2:hover{
+    background-color:aliceblue;
+    color:brown;
+}
